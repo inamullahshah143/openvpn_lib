@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-group = 'com.github.nizwar'
+group = 'com.github.inamullahshah143'
 
 android {
     compileSdk 33
